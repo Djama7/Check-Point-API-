@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+.img{
+  margin-top: 100px;
+  width: 700px;
+}
+.nidham {
+  margin-top: 100px;
+  gap:100px ;
+}
